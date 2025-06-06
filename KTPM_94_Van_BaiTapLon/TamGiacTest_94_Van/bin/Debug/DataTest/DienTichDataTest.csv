@@ -1,0 +1,4 @@
+a,b,c,IsTriangle,ExpectedArea
+3,4,5,true,6
+6,8,10,true,24
+3,1,4,false,-1

@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B31876DD-0D47-43A9-90E7-4E6C6AE9E89A}|SeleniumWebdriver_94_Van\\SeleniumWebdriver_Van.csproj|D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\seleniumwebdriver_94_van\\learnielts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31876DD-0D47-43A9-90E7-4E6C6AE9E89A}|SeleniumWebdriver_94_Van\\SeleniumWebdriver_Van.csproj|solutionrelative:seleniumwebdriver_94_van\\learnielts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31876DD-0D47-43A9-90E7-4E6C6AE9E89A}|SeleniumWebdriver_94_Van\\SeleniumWebdriver_Van.csproj|d:\\hkiinam3\\ki\u1EC3m th\u1EED ph\u1EA7m m\u1EC1m\\tester\\ktpm_94_van_baitaplon\\seleniumwebdriver_94_van\\searchtoeiccourse_van.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31876DD-0D47-43A9-90E7-4E6C6AE9E89A}|SeleniumWebdriver_94_Van\\SeleniumWebdriver_Van.csproj|solutionrelative:seleniumwebdriver_94_van\\searchtoeiccourse_van.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31876DD-0D47-43A9-90E7-4E6C6AE9E89A}|SeleniumWebdriver_94_Van\\SeleniumWebdriver_94_Van.csproj|D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\seleniumwebdriver_94_van\\searchtoeiccourse_van.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31876DD-0D47-43A9-90E7-4E6C6AE9E89A}|SeleniumWebdriver_94_Van\\SeleniumWebdriver_94_Van.csproj|solutionrelative:seleniumwebdriver_94_van\\searchtoeiccourse_van.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F651175-D28C-46B7-8508-9CFFBA0A12FF}|KTPM_94_Van_BaiTapLon\\KTPM_Van_BaiTapLon.csproj|D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\KTPM_94_Van_BaiTapLon\\NUnit_Van.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F651175-D28C-46B7-8508-9CFFBA0A12FF}|KTPM_94_Van_BaiTapLon\\KTPM_Van_BaiTapLon.csproj|solutionrelative:KTPM_94_Van_BaiTapLon\\NUnit_Van.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F651175-D28C-46B7-8508-9CFFBA0A12FF}|KTPM_94_Van_BaiTapLon\\KTPM_Van_BaiTapLon.csproj|D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\ktpm_94_van_baitaplon\\nunit_van.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F651175-D28C-46B7-8508-9CFFBA0A12FF}|KTPM_94_Van_BaiTapLon\\KTPM_Van_BaiTapLon.csproj|solutionrelative:ktpm_94_van_baitaplon\\nunit_van.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchToeicCourse_Van.cs",
+              "DocumentMoniker": "D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\SeleniumWebdriver_94_Van\\SearchToeicCourse_Van.cs",
+              "RelativeDocumentMoniker": "SeleniumWebdriver_94_Van\\SearchToeicCourse_Van.cs",
+              "ToolTip": "D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\SeleniumWebdriver_94_Van\\SearchToeicCourse_Van.cs",
+              "RelativeToolTip": "SeleniumWebdriver_94_Van\\SearchToeicCourse_Van.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:53:17.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchToeicCourse_Van.cs",
+              "DocumentMoniker": "D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\SeleniumWebdriver_94_Van\\SearchToeicCourse_Van.cs",
+              "RelativeDocumentMoniker": "SeleniumWebdriver_94_Van\\SearchToeicCourse_Van.cs",
+              "ToolTip": "D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\SeleniumWebdriver_94_Van\\SearchToeicCourse_Van.cs",
+              "RelativeToolTip": "SeleniumWebdriver_94_Van\\SearchToeicCourse_Van.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:15:45.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NUnit_Van.cs [Design]",
+              "DocumentMoniker": "D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\KTPM_94_Van_BaiTapLon\\NUnit_Van.cs",
+              "RelativeDocumentMoniker": "KTPM_94_Van_BaiTapLon\\NUnit_Van.cs",
+              "ToolTip": "D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\KTPM_94_Van_BaiTapLon\\NUnit_Van.cs [Design]",
+              "RelativeToolTip": "KTPM_94_Van_BaiTapLon\\NUnit_Van.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:27:41.337Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LearnIELTS.cs",
+              "DocumentMoniker": "D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\SeleniumWebdriver_94_Van\\LearnIELTS.cs",
+              "RelativeDocumentMoniker": "SeleniumWebdriver_94_Van\\LearnIELTS.cs",
+              "ToolTip": "D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\SeleniumWebdriver_94_Van\\LearnIELTS.cs",
+              "RelativeToolTip": "SeleniumWebdriver_94_Van\\LearnIELTS.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:10:49.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NUnit_Van.cs",
+              "DocumentMoniker": "D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\KTPM_94_Van_BaiTapLon\\NUnit_Van.cs",
+              "RelativeDocumentMoniker": "KTPM_94_Van_BaiTapLon\\NUnit_Van.cs",
+              "ToolTip": "D:\\HKIINam3\\Ki\u1EC3m Th\u1EED Ph\u1EA7m M\u1EC1m\\Tester\\KTPM_94_Van_BaiTapLon\\KTPM_94_Van_BaiTapLon\\NUnit_Van.cs",
+              "RelativeToolTip": "KTPM_94_Van_BaiTapLon\\NUnit_Van.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:27:44.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

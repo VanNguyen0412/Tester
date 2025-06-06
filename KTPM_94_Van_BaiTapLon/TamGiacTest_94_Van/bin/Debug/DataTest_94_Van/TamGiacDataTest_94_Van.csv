@@ -1,0 +1,5 @@
+﻿a,b,c,IsTriangle,ExpectedType
+3,4,5,true,1
+1,2,3,false,4
+5,5,5,true,2
+5,5,10,false,4
